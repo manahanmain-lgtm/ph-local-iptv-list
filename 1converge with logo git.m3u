@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KAPAMILYA SD" tvg-logo="https://raw.githubusercontent.com/djdoolky76/UDPTV/refs/heads/main/imgs/abs-cbn-logo.png" group-title="Filipino TV",KAPAMILYA SD
+#EXTINF:-1 tvg-name="KAPAMILYA SD" tvg-logo="https://seeklogo.com/images/A/abs-cbn-logo-0F9E8E8E8E-seeklogo.com.png" group-title="Filipino TV",KAPAMILYA SD
 http://136.158.97.2:6610/001/2/ch00000090990000001248/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApp6yQcv0eXOeLWPg38eVQ3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001545&contentid=ch00000000000000001545&videoid=ch00000090990000001248&recommendtype=0&userid=1939893849220&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=COJ0KA4VBZGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448120260101155240039866&ispcode=55
 #EXTINF:-1 tvg-name="TELERADYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/dzmm-teleradyo-ph.png" group-title="Filipino TV",TELERADYO
 http://136.239.173.3:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr70JxlZHE85iqqUwY%2BlbxPsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1153314047374&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N3KWA75YPNMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155240188205&ispcode=55
@@ -142,6 +142,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-name="FRANCE24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/France_24_logo.svg" group-title="News",FRANCE24
 
 http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr79DvzaC5n7CqXniN8aprYsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1869475038340&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H65AUICYBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447520260101155238866649&ispcode=55
+
 
 
 
