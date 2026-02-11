@@ -273,3 +273,6 @@ https://gma.xyadx.workers.dev/stream/HOA.m3u8
 
 #EXTINF:-1 tvg-name="SINE MANILA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sine_Manila_logo.png" group-title="Movies",SINE MANILA
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
+
+#EXTINF:-1 tvg-name="I Heart Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/gma-ph.png" group-title="Movies",I Heart Movies
+https://gma.xyadx.workers.dev/stream/IHM.m3u8
