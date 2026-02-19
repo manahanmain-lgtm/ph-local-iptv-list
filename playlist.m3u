@@ -189,3 +189,5 @@ http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440538&extensi
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG59.png" group-title="Cartoon/Anime",TOM AND JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Cartoon/Anime",Dreamworks Tagalog
+https://qtv.enixph.com/stream/kapamilya/dreamworkstagalog/stream.m3u8?uid=2820033025&u=meower&p=534c51e17770c9b7a5aa186bec09fd9470653e25f39651277bcc2fb1f620acd0
