@@ -191,3 +191,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Cartoon/Anime",Dreamworks Tagalog
 https://qtv.enixph.com/stream/kapamilya/dreamworkstagalog/stream.m3u8?uid=2820033025&u=meower&p=534c51e17770c9b7a5aa186bec09fd9470653e25f39651277bcc2fb1f620acd0
+#EXTINF:-1,test
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nhk_japan/default/index.mpd", "Key": "3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
