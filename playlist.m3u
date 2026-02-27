@@ -183,7 +183,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/index.m3u8?AuthInfo=v87H
 http://136.239.158.18:6610/001/2/ch00000090990000001096/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=HLS&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s" group-title="International",Xingkong
 http://136.239.173.3:6610/001/2/ch00000090990000001337/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=HLS&JITPDRMType=NO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Music",MYX Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Music",MYX Global (Maintenance)
 http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440538&extension=m3u8
 #EXTINF:-1 group-title="Movies",3RS SINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
